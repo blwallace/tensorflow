@@ -1,0 +1,346 @@
+ta_season,ta_market,ta_name,ta_team_code,ta_team_id,ta_alias,ta_division,ta_current_division,ta_wins,ta_losses,ta_ties,spread_0,spread_1,spread_2,spread_3,spread_4,spread_5
+2012,University of Evansville,Aces,219,d8217105-e9c2-4267-9538-3aaeea1ae167,EVAN,1,D1,21,15,0,6,0,0,-12,3,-12
+2012,University of San Francisco,Dons,629,d24efd99-8717-43b9-a086-9986a684ac04,SF,1,D1,15,16,0,-1,6,4,-6,-8,-11
+2012,University of Tennessee at Chattanooga,Mocs,693,4c9fb59b-6cec-4b0d-bb0f-628b391d138c,CHAT,1,D1,13,19,0,-6,-10,0,-3,1,5
+2012,Rice University,Owls,574,bb384635-c3a0-459a-8f13-fcd7177313e5,RICE,1,D1,5,26,0,-21,3,-4,-15,-12,-24
+2012,Temple University,Owls,690,8598d1b6-106b-4083-a512-2e495729525a,TEM,1,D1,24,10,0,14,16,18,23,10,8
+2012,Kennesaw State University,Owls,1157,2e8442e9-bd09-4d46-9dd3-de79433287f3,KENN,1,D1,3,27,0,-24,-25,-15,-7,-15,-10
+2012,Florida Atlantic University,Owls,229,c851131a-5ecd-4670-81bc-b40f4837dd65,FAU,1,D1,14,18,0,-4,-8,10,-2,-20,-3
+2012,Fordham University,Rams,236,7888d144-563d-4f84-b99b-d120aecf1fef,FOR,1,D1,7,24,0,-17,-9,-14,-24,-22,-5
+2012,Colorado State University,Rams,156,1a470730-f328-4fb1-8bbf-36a069e4d6b2,CSU,1,D1,26,9,0,17,8,6,0,-13,-18
+2012,University of Rhode Island,Rams,572,7e42bca2-3cd7-4aca-aa46-f190fe5d8eb4,URI,1,D1,8,21,0,-13,-17,6,16,12,9
+2012,Virginia Commonwealth University,Rams,740,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,1,D1,27,9,0,18,22,16,18,14,16
+2012,University of Utah,Utes,732,0d037a5d-827a-44dd-8b70-57603d671d5d,UTAH,1,D1,15,18,0,-3,-19,-5,-3,14,3
+2012,University of Akron,Zips,5,56fe0ab2-e4f0-47b9-8726-9ce23ebcde20,AKR,1,D1,26,7,0,19,10,10,13,10,13
+2012,Long Beach State University,49ers,99,11a617d5-af03-4cce-bc8a-51114d9e41fe,LBSU,1,D1,19,14,0,5,16,10,1,0,-19
+2012,"University of North Carolina, Charlotte",49ers,458,8ddbfca9-a931-4908-aa31-9fcd17624b5f,CHAR,1,D1,21,12,0,9,-4,-10,7,-9,6
+2012,Brown University,Bears,80,558abf02-97f4-4323-aa99-63c076d35932,BRWN,1,D1,13,15,0,-2,-15,-6,-9,-10,9
+2012,Baylor University,Bears,51,db6e1cab-3fa3-4a93-a673-8b2a358ff4bf,BAY,1,D1,23,14,0,9,22,5,20,9,10
+2012,Mercer University,Bears,406,a14b0057-8eb5-43d2-a33b-666196da933e,MER,1,D1,24,12,0,12,16,-3,-1,2,-8
+2012,Morgan State University,Bears,446,576b816b-5b9a-4768-a62b-f8435a8272c2,MORG,1,D1,17,15,0,2,-11,3,17,11,11
+2012,Missouri State University,Bears,669,b83de2df-328f-4303-9895-cdff048fb1ed,MOSU,1,D1,11,22,0,-11,0,17,12,-9,1
+2012,University of Central Arkansas,Bears,1004,dfc2dfb7-aa67-4c48-99c9-4fa6c6bc4355,CARK,1,D1,13,17,0,-4,-13,-19,-12,-9,-2
+2012,University of Northern Colorado,Bears,502,7e42fa84-68cd-47a6-b49a-18b5414d8084,UNCO,1,D1,13,18,0,-5,-10,10,17,-4,-3
+2012,Howard University,Bison,290,22fbe5dc-c6db-4675-b3a3-2d8af7f5d313,HOW,1,D1,7,24,0,-17,-11,-18,-18,-15,-20
+2012,Bucknell University,Bison,83,98d2123a-c7b9-4b5f-8a81-43f76d8537dc,BUCK,1,D1,28,6,0,22,15,16,-3,-16,-7
+2012,North Dakota State University,Bison,493,984e7518-e418-45d5-9797-979b8c2085c1,NDSU,1,D1,24,10,0,14,3,-1,-7,19,3
+2012,University of South Florida,Bulls,651,55af9c69-3675-4b9b-a882-96640b782fff,USF,1,D1,12,19,0,-7,8,-13,7,-13,-7
+2012,"University at Buffalo, the State University of New York",Bulls,86,a9f5c9a2-342c-4881-9996-5d5c05ec9bd9,BUFF,1,D1,14,20,0,-6,9,6,6,9,-10
+2012,University of Oregon,Ducks,529,1da70895-f77f-44ef-b216-d63c02e696eb,ORE,1,D1,28,9,0,19,14,3,0,-15,4
+2012,Duquesne University,Dukes,194,fea46ac5-6dad-43cd-a770-75554dbcc118,DUQ,1,D1,8,22,0,-14,1,6,0,8,4
+2012,James Madison University,Dukes,317,524e3eec-7dde-45c7-b3cc-6308cec73350,JMU,1,D1,21,15,0,6,-8,9,-7,6,-4
+2012,Iona College,Gaels,310,255c2a87-40c0-4989-bbb9-d286aac5d28e,IONA,1,D1,20,14,0,6,17,13,11,-7,-8
+2012,St. Mary's College of California,Gaels,610,b18f34af-a7f1-4659-a2e5-fc11a31cd316,SMC,1,D1,28,7,0,21,21,16,22,21,18
+2012,Monmouth University,Hawks,439,3db7336c-c18a-441b-912e-e2a4408f12ea,MONM,1,D1,10,21,0,-11,-8,-12,-7,-15,-17
+2012,University of Hartford,Hawks,272,dba620d9-7282-4638-bf05-13caf48eeed1,HART,1,D1,17,14,0,3,-13,-9,-14,-19,2
+2012,Saint Joseph's University,Hawks,606,f9e4261e-d11d-46c4-bd33-c7bbc94ef0e8,JOES,1,D1,18,14,0,4,6,-11,-9,2,8
+2012,"University of Maryland, Eastern Shore",Hawks,393,d20216d8-161c-46e3-b8d2-92208ddf5acf,UMES,1,D1,2,26,0,-24,-16,-13,-10,-16,-24
+2012,Georgetown University,Hoyas,251,8736b67f-5924-400b-bf94-3bd804c36600,GTWN,1,D1,25,7,0,18,15,10,12,1,22
+2012,Loyola Marymount University,Lions,370,441a11b4-b506-45b3-8030-fe72a4381c40,LMU,1,D1,11,23,0,-12,8,-10,2,-25,-21
+2012,Southeastern Louisiana University,Lions,655,55cd5bb4-b030-4a7a-9652-6cebaf81c574,SELA,1,D1,13,18,0,-5,-5,1,-11,-17,-13
+2012,Columbia University-Barnard College,Lions,158,ca74bd67-034c-4468-8487-6f983f5eb4f6,CLMB,1,D1,12,16,0,-4,0,2,-6,-4,-1
+2012,University of New Mexico,Lobos,473,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,UNM,1,D1,29,6,0,23,21,9,25,10,15
+2012,Northern Kentucky University,Norse,505,ab9a1315-293f-42d3-a164-860216e81576,NKU,1,D1,11,16,0,-5,16,12,4,17,13
+2012,Hofstra University,Pride,283,36ca2008-cd2e-4549-8b3b-c745167e07f3,HOF,1,D1,7,25,0,-18,-12,9,4,10,-6
+2012,Fairfield University,Stags,220,a381465b-4530-4a00-a50c-5253cd7695a0,FAIR,1,D1,19,16,0,3,7,17,12,2,-2
+2012,College of William and Mary,Tribe,786,ad24b724-a11c-4dcd-a68c-67c53833ccb7,WM,1,D1,13,17,0,-4,-20,-12,11,-10,1
+2012,Pepperdine University,Waves,541,17479d6f-c8f1-458b-9412-8c76279a2bb4,PEPP,1,D1,12,18,0,-6,-9,-9,-17,-14,-10
+2012,Utah State University,Aggies,731,7672ff16-8436-47e6-8546-0fb5494ec7ee,USU,1,D1,21,10,0,11,5,26,19,25,13
+2012,New Mexico State University,Aggies,472,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,NMSU,1,D1,24,11,0,13,16,-1,10,2,7
+2012,"University of California, Davis",Aggies,108,8aaad1c0-d16e-4b9f-8541-dac670addd71,UCD,1,D1,14,17,0,-3,-21,-10,-4,-6,-13
+2012,North Carolina A&T State University,Aggies,488,53aaac6a-796e-41a6-a04e-6ce74c5717f8,NCAT,1,D1,20,17,0,3,-8,-2,-11,0,-1
+2012,"Texas A&M University, College Station",Aggies,697,ef184799-d79b-49d9-a662-991eaf4044cd,TXAM,1,D1,18,15,0,3,-4,15,14,14,14
+2012,San Diego State University,Aztecs,626,e6914f16-ca37-4d2e-ba26-a425910283e2,SDSU,1,D1,23,11,0,12,18,31,16,16,7
+2012,Lipscomb University,Bisons,28600,a2b8223d-40b3-4076-b5df-55655c2f8591,LIP,1,D1,12,18,0,-6,-5,4,4,3,-1
+2012,Bradley University,Braves,72,b47d10b8-a2a5-47df-a2f9-7bd0b9d51beb,BRAD,1,D1,18,17,0,1,-18,-8,1,6,4
+2012,Alcorn State University,Braves,17,1bddc811-44cf-4e53-b4ab-11c8dc82c9de,ALCN,1,D1,10,24,0,-14,-12,-20,-27,-19,-17
+2012,Rider University,Broncs,576,0b73b9b9-1e29-4b14-b5d8-0405fe942e32,RID,1,D1,19,15,0,4,-6,12,1,6,12
+2012,Belmont University,Bruins,14927,a0a22502-0d84-440c-84af-1fbb070ad54c,BEL,1,D1,26,7,0,19,19,25,7,7,16
+2012,"University of California, Los Angeles",Bruins,110,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,1,D1,25,10,0,15,5,12,-4,17,31
+2012,Northwestern State University,Demons,508,71874e7e-8260-43f9-bb7c-65f267dbe8ce,NWST,1,D1,23,9,0,14,0,4,-9,-9,-3
+2012,Boston College,Eagles,67,4b3ff02c-e0ba-435b-a565-6075bc491684,BC,1,D1,16,17,0,-1,-13,8,-1,10,-3
+2012,American University,Eagles,23,2f513e67-f019-4eec-9096-fbc5911858b6,AMER,1,D1,10,20,0,-10,8,13,-9,16,9
+2012,Winthrop University,Eagles,792,ca441726-0c57-4456-b1e7-fff098484fb5,WIN,1,D1,14,17,0,-3,-8,-4,5,-8,10
+2012,Coppin State University,Eagles,165,5f9a90a2-3926-404e-8c8a-d9f22ad6907d,COPP,1,D1,8,24,0,-16,-2,2,-14,-6,-5
+2012,Morehead State University,Eagles,444,b7747a03-c85b-4de6-94bf-1b5b68553248,MORE,1,D1,15,18,0,-3,3,15,13,4,0
+2012,Eastern Michigan University,Eagles,204,2ed86226-3fff-4083-90fa-6b02307e6f73,EMU,1,D1,16,18,0,-2,-4,-13,2,-16,-3
+2012,Georgia Southern University,Eagles,253,6b955b96-b736-475e-bffd-e4acf2054169,GASO,1,D1,14,19,0,-5,0,-22,-14,-21,-12
+2012,Eastern Washington University,Eagles,207,54df21af-8f65-42fc-bc01-8bf750856d70,EWU,1,D1,10,21,0,-11,-2,-10,-12,-6,-8
+2012,Florida Gulf Coast University,Eagles,28755,5326c079-3dc3-468f-a601-b776dd9c1e62,FGCU,1,D1,26,11,0,15,-2,-10,-13,-9,-11
+2012,North Carolina Central University,Eagles,489,e4c315a0-e83f-4d14-856e-34a0463059e3,NCCU,1,D1,22,9,0,13,2,0,-15,-23,-22
+2012,Liberty University,Flames,355,559db90c-741f-40d1-aa81-3fdd1d4889f3,LIB,1,D1,15,21,0,-6,-4,6,-1,11,0
+2012,University of Illinois at Chicago,Flames,302,dfe0d93f-94a5-47fb-b7aa-f74786e09acb,UIC,1,D1,18,16,0,2,-14,-17,-14,1,3
+2012,University of Dayton,Flyers,175,632616c5-2dbb-4017-a449-c9dfc303f026,DAY,1,D1,17,14,0,3,7,8,13,19,12
+2012,Providence College,Friars,556,7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,PROV,1,D1,19,15,0,4,-2,-2,-7,5,-1
+2012,University of Florida,Gators,235,912f8837-1d81-4ef9-a576-a21f271d4c64,FLA,1,D1,29,8,0,21,15,21,8,14,12
+2012,Virginia Polytechnic Institute & State University,Hokies,742,324ccccc-575b-4b82-acb0-fbb8e68da13b,VT,1,D1,13,19,0,-6,-1,10,16,4,7
+2012,University of Texas at El Paso,Miners,704,06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,1,D1,18,14,0,4,-2,15,19,9,5
+2012,Syracuse University,Orange,688,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,SYR,1,D1,30,10,0,20,-3,12,25,18,7
+2012,University of Portland,Pilots,551,224e3b21-30e7-4a05-9e8c-62721d581db8,PORT,1,D1,11,21,0,-10,-17,8,10,6,-13
+2012,Murray State University,Racers,454,77a69fb0-1355-4342-ac09-b4cc7949d95e,MURR,1,D1,21,10,0,11,29,14,26,7,5
+2012,University of Mississippi,Rebels,433,d7d668ec-edaa-4d6b-be25-2ebba4128643,MISS,1,D1,27,9,0,18,6,6,13,1,13
+2012,"University of Nevada, Las Vegas",Rebels,465,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,1,D1,25,10,0,15,17,15,16,10,19
+2012,Siena College,Saints,639,aba39ad0-6d9f-4946-bf7e-5c63bf966ce6,SIE,1,D1,8,24,0,-16,-3,-5,20,19,12
+2012,Auburn University,Tigers,37,0c0608b3-f349-4f5e-9a10-7e6a744dd0d2,AUB,1,D1,9,23,0,-14,-1,-9,-2,12,-2
+2012,Towson University,Tigers,711,6f3eec09-2918-4739-a0e8-5d79e14a8332,TOWS,1,D1,18,13,0,5,-30,-22,-11,-10,-5
+2012,Clemson University,Tigers,147,dcf5c2e7-c227-4c20-af26-715d5f859412,CLEM,1,D1,13,18,0,-5,1,10,10,14,14
+2012,Princeton University,Tigers,554,fe406882-9f22-495e-9df6-ef357a6803c6,PRIN,1,D1,17,11,0,6,8,18,13,-1,-17
+2012,University of Memphis,Tigers,404,1551b3a0-6d10-4ffa-8dfa-73b56f004553,MEM,1,D1,31,5,0,26,17,15,14,29,-1
+2012,Jackson State University,Tigers,314,c444e03b-d16b-48b2-9b18-823c2647d41d,JKST,1,D1,11,18,0,-7,-17,2,6,3,-6
+2012,Savannah State University,Tigers,632,3eacc387-0ad8-4c5e-a666-c8ab447d224f,SAV,1,D1,19,15,0,4,9,-6,-4,1,-5
+2012,Texas Southern University,Tigers,699,eb157f98-0697-459c-9293-ddb162ceb28b,TXSO,1,D1,17,14,0,3,-3,6,1,-18,-18
+2012,University of the Pacific,Tigers,534,c9570e17-c4fd-41e6-908a-1a083941319d,PAC,1,D1,22,13,0,9,-8,1,11,8,11
+2012,Grambling State University,Tigers,261,6776c7e6-f4c2-47bd-99e5-39fc179a3197,GRAM,1,D1,0,28,0,-28,-20,-9,-14,-17,-12
+2012,Louisiana State University,Tigers,365,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,1,D1,19,12,0,7,3,-10,-9,19,-5
+2012,Tennessee State University,Tigers,691,87721c44-53a2-47aa-9b3a-0f1c99b0f328,TNST,1,D1,18,15,0,3,7,-2,-14,-6,-2
+2012,"University of Missouri, Columbia",Tigers,434,77ca152a-cb2f-48a5-97b2-492351250d94,MIZZ,1,D1,23,11,0,12,25,12,12,24,0
+2012,University of Detroit Mercy,Titans,184,1b78e7f6-f25c-4921-98e2-9bc565f8dfb4,DET,1,D1,20,13,0,7,8,1,6,-16,-16
+2012,"California State University, Fullerton",Titans,97,c009914b-3303-4dee-b915-978aa48a31d0,CSF,1,D1,14,18,0,-4,11,-9,1,-2,15
+2012,"University of Wisconsin, Madison",Badgers,796,c7569eae-5b93-4197-b204-6f3a62146b25,WIS,1,D1,23,12,0,11,16,16,15,7,26
+2012,Oregon State University,Beavers,528,532d3874-b4b3-4c5c-acc6-749a6db26c8f,ORST,1,D1,14,18,0,-4,6,-9,-4,0,-19
+2012,Idaho State University,Bengals,294,6a67ba19-56a8-4dd8-a5ae-9e9f2523c274,IDST,1,D1,6,24,0,-18,-12,-11,-15,-6,-7
+2012,Cornell University,Big Red,167,88ff8c00-958e-4ccf-a21d-77fab9e93692,COR,1,D1,13,18,0,-5,-4,-8,24,11,16
+2012,University of Alabama at Birmingham,Blazers,9,63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,1,D1,16,17,0,-1,-1,13,16,10,12
+2012,Ohio University,Bobcats,519,327f09e2-e75f-4014-8ef7-caf9202cd583,OHIO,1,D1,24,10,0,14,21,3,7,-2,7
+2012,Quinnipiac University,Bobcats,562,6a8d2a24-2128-47a0-913f-3d29e9d6592c,QUIN,1,D1,15,16,0,-1,4,12,13,-1,0
+2012,Montana State University-Bozeman,Bobcats,440,bec40585-b587-4548-93f5-b7c00b046aea,MTST,1,D1,13,17,0,-4,-5,-5,1,-3,0
+2012,Texas State University-San Marcos,Bobcats,670,1e5dc9e4-c60d-487b-8279-dfbec9229faa,TXST,1,D1,12,22,0,-10,-4,0,-1,-2,-3
+2012,St. Bonaventure University,Bonnies,596,22d90601-19d4-461b-a901-924d12f116ed,SBON,1,D1,14,15,0,-1,8,1,-1,0,-14
+2012,Boise State University,Broncos,66,c1c54dbf-805c-47fc-a707-c803e94db2a4,BSU,1,D1,21,11,0,10,-4,9,-2,6,16
+2012,Santa Clara University,Broncos,631,28023973-1d9d-4d01-b939-dc8f9b44fb1c,SCU,1,D1,26,12,0,14,-14,10,-10,-1,-1
+2012,Western Michigan University,Broncos,774,f2164f01-2cbc-4967-bb1c-93656d790921,WMU,1,D1,22,13,0,9,-6,8,3,-11,8
+2012,University of Houston,Cougars,288,1f99a164-d593-4d81-85d5-0d7889d6f486,HOU,1,D1,20,13,0,7,0,-6,3,9,14
+2012,Brigham Young University,Cougars,77,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,1,D1,24,12,0,12,17,27,24,17,19
+2012,Chicago State University,Cougars,136,2f8c85a7-54f4-4942-be16-2cbac77c82d7,CHS,1,D1,11,22,0,-11,-22,-20,-14,6,-6
+2012,Washington State University,Cougars,754,2d4f0015-adb4-4877-8c15-4a6eed7eed03,WSU,1,D1,13,19,0,-6,1,9,1,1,17
+2012,College of Charleston (South Carolina),Cougars,1014,8548dacb-3636-48a8-8c46-611ab0c15fc0,COFC,1,D1,24,11,0,13,7,15,10,18,-1
+2012,Southern Illinois University Edwardsville,Cougars,660,c206712f-2298-4279-b76c-834ac42809b9,SIUE,1,D1,9,18,0,-9,-7,-13,-18,-10,6
+2012,University of Wyoming,Cowboys,811,a7127c0a-a466-47ae-91ad-9a71ee2c9427,WYO,1,D1,20,14,0,6,9,-11,-11,5,-6
+2012,McNeese State University,Cowboys,402,d2ef641c-70e4-48bb-b40d-ac654d179205,MCNS,1,D1,14,17,0,-3,1,9,-10,-7,-3
+2012,Oklahoma State University,Cowboys,521,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,OKST,1,D1,24,9,0,15,-3,6,11,11,1
+2012,University of South Dakota,Coyotes,650,c946b7ac-5159-4817-93c4-fc9495c6425b,SDAK,1,D1,10,20,0,-10,-8,3,12,11,15
+2012,Harvard University,Crimson,275,5c7bf63f-bc39-43c5-9907-73b50b7a6b34,HARV,1,D1,20,10,0,10,21,16,13,0,-14
+2012,Drexel University,Dragons,191,f2d01b77-0f5d-4574-9e49-2a3eaf822e44,DREX,1,D1,13,18,0,-5,22,11,0,1,-8
+2012,U.S. Air Force Academy,Falcons,721,aa7af640-5762-4686-9181-39f7b8a8186e,AFA,1,D1,18,14,0,4,-3,0,-11,-11,2
+2012,Bowling Green State University,Falcons,71,a9e4d292-d074-40e7-a81a-f9342929b979,BGSU,1,D1,13,19,0,-6,0,-5,-2,5,-4
+2012,"University of California, Santa Barbara",Gauchos,104,3b6293f3-03db-46d2-8793-248963c2d83b,UCSB,1,D1,11,20,0,-9,9,4,10,1,14
+2012,Stetson University,Hatters,678,394d1b2b-7a19-4d43-b04a-5f366c24e5bf,STET,1,D1,15,16,0,-1,-11,-15,-15,-4,0
+2012,Alabama State University,Hornets,7,267d417a-8f85-4c87-a15a-068c089a74c6,ALST,1,D1,10,22,0,-12,-7,-1,1,12,9
+2012,Delaware State University,Hornets,178,ffa04cde-aa2d-4e91-b2cd-bde2bfed44de,DSU,1,D1,15,18,0,-3,1,-12,5,-16,-2
+2012,"California State University, Sacramento",Hornets,102,1dc13b18-f9b3-4bb9-b1cf-979fcd8c2b6f,SAC,1,D1,14,15,0,-1,-8,-14,-12,-25,-20
+2012,Northeastern University,Huskies,500,93df9b18-e9fc-42a7-bb45-a736c203b4dc,NE,1,D1,20,13,0,7,-3,-9,7,6,-3
+2012,University of Washington,Huskies,756,e52c9644-717a-46f4-bf16-aeca000b3b44,WASH,1,D1,18,16,0,2,13,13,16,17,-1
+2012,University of Connecticut,Huskies,164,efba5350-79bc-47aa-a189-db177b95b491,CONN,1,D1,20,10,0,10,6,23,2,26,15
+2012,Northern Illinois University,Huskies,503,3f0ac618-3742-471a-9d1f-03e08f3deca2,NIU,1,D1,5,25,0,-20,-21,-12,-10,-10,-16
+2012,University of South Alabama,Jaguars,646,10c614fa-9646-46cf-a1fb-5af96772bbb8,USA,1,D1,17,13,0,4,5,-4,2,7,19
+2012,"Southern University, Baton Rouge",Jaguars,665,a3b13d27-ec14-4a7d-88a2-0bc9f7b58984,SOU,1,D1,23,10,0,13,3,-22,-20,-15,-8
+2012,Indiana University-Purdue University at Indianapolis,Jaguars,2699,90ec10eb-38a4-4a69-b072-ef71d294933b,IUPU,1,D1,6,26,0,-20,-4,5,14,2,19
+2012,Manhattan College,Jaspers,381,7a270923-01d6-4a6f-a93e-e8786266d502,MAN,1,D1,14,18,0,-4,8,-19,-9,2,-7
+2012,Virginia Military Institute,Keydets,741,227d3567-d57b-417e-afc4-735e4cb308a1,VMI,1,D1,14,17,0,-3,1,5,-9,16,-1
+2012,University of Central Florida,Knights,128,054c3e85-0552-4549-b123-7e84af6e7b6c,UCF,1,D1,20,11,0,9,11,-12,-17,-14,1
+2012,"Fairleigh Dickinson University, Metropolitan",Knights,222,b71d5a1b-2671-4e5a-b94b-06bfb22a27dd,FDU,1,D1,7,24,0,-17,-23,-19,-10,-16,-12
+2012,Longwood University,Lancers,363,600aad0e-85e7-4db8-be0b-94ba02a08e55,LONG,1,D1,8,25,0,-17,-11,-7,-7,3,-13
+2012,University of North Florida,Ospreys,2711,09920a5f-1b25-466c-b5ae-6167214f5ba9,UNF,1,D1,13,19,0,-6,0,-4,-5,-14,-23
+2012,Elon University,Phoenix,1068,8accb91e-6086-41b3-a420-7a82fa442365,ELON,1,D1,21,12,0,9,-1,-3,-14,-9,-5
+2012,"University of Wisconsin, Green Bay",Phoenix,794,61a3e5ab-1be3-4694-b83f-edae0953f409,GB,1,D1,18,16,0,2,0,-4,9,11,0
+2012,Hampton University,Pirates,270,161354af-1f3e-4d58-88f7-e016ec74b7b6,HAMP,1,D1,14,17,0,-3,-9,15,-4,0,6
+2012,Seton Hall University,Pirates,635,aef5e386-d8e8-460c-8014-3a2f090fd988,HALL,1,D1,15,18,0,-3,8,-5,6,2,2
+2012,East Carolina University,Pirates,196,a601205f-3bfe-4052-ac0b-b8f18cf3efd3,ECU,1,D1,23,12,0,11,-1,2,-11,-4,-8
+2012,University of Pennsylvania,Quakers,540,e6c94452-1adf-4fb9-90e5-10f165c57c5a,PENN,1,D1,9,22,0,-13,7,-2,-16,-8,-5
+2012,Colgate University,Raiders,153,80a19b57-d6ab-4bee-934f-33a72c2e958a,COLG,1,D1,11,21,0,-10,-14,-16,-9,-10,4
+2012,Wright State University,Raiders,810,9c396fa7-c165-4599-8542-158bd0d9a199,WRST,1,D1,23,13,0,10,-6,5,8,7,11
+2012,University of Toledo,Rockets,709,34dd83ac-64f2-4b73-8577-899b2a46f5cc,TOL,1,D1,15,13,0,2,2,-24,-24,-18,-8
+2012,Southern Illinois University at Carbondale,Salukis,659,7cdfcf92-7fe7-46f1-9b66-6912114182e6,SIU,1,D1,14,17,0,-3,-15,-6,0,-5,3
+2012,University of Oklahoma,Sooners,522,b2fda957-e15c-4fb2-8a13-6e58496f561e,OKLA,1,D1,20,12,0,8,-1,-4,-18,24,11
+2012,University of Richmond,Spiders,575,9b66e1e0-aace-4671-9be2-54c8acf5ecfc,RICH,1,D1,19,15,0,4,0,21,17,4,1
+2012,University of San Diego,Toreros,627,620d5944-7156-47d3-aad5-5b3824557d03,USD,1,D1,16,18,0,-2,-5,-18,-10,0,8
+2012,Troy University,Trojans,716,6373b18c-62f6-49bc-bd4c-8959a2466516,TROY,1,D1,12,21,0,-9,-8,-13,7,6,-7
+2012,University of Southern California,Trojans,657,3a000455-de7c-4ca8-880e-abdce7f21da9,USC,1,D1,14,18,0,-4,-20,4,2,9,-11
+2012,"University of Arkansas, Little Rock",Trojans,32,0dadedb0-2bd3-45e7-91a3-93af6c4e87f2,UALR,1,D1,17,15,0,2,-1,2,-14,15,9
+2012,University of Idaho,Vandals,295,ec6185b7-4e0c-4eb8-99ef-f3a4dccf6b91,IDHO,1,D1,12,18,0,-6,5,4,-1,1,-13
+2012,Portland State University,Vikings,550,79965018-7f6f-4273-9eef-65c99b592b01,PRST,1,D1,8,20,0,-12,2,-2,-6,13,13
+2012,Cleveland State University,Vikings,148,e30c0417-b220-424e-886e-dd1249e2ca5a,CLEV,1,D1,14,18,0,-4,11,18,-1,15,8
+2012,Binghamton University,Bearcats,62,fa0f8282-c4f1-490e-962c-f25350cd76f4,BING,1,D1,3,27,0,-24,-27,-15,-5,14,-2
+2012,University of Cincinnati,Bearcats,140,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,CIN,1,D1,22,12,0,10,15,17,3,4,-6
+2012,Sam Houston State University,Bearkats,624,67322042-9c40-4dc2-b33a-4754c02ec82a,SHSU,1,D1,17,17,0,0,-6,5,17,6,15
+2012,Creighton University,Bluejays,169,7d797407-623e-476d-b299-46de4275414d,CREI,1,D1,28,8,0,20,23,7,2,19,11
+2012,The Ohio State University,Buckeyes,518,857462b3-0ab6-4d26-9669-10ca354e382b,OSU,1,D1,29,8,0,21,23,31,21,11,11
+2012,The Citadel,Bulldogs,141,412e7f0d-fb93-4e6e-be1f-9a4c7490d121,CIT,1,D1,8,22,0,-14,-18,-12,0,7,-18
+2012,Yale University,Bulldogs,813,ca478771-aa3d-4231-81e0-b70f519134fb,YALE,1,D1,14,17,0,-3,9,2,-7,-2,-2
+2012,Drake University,Bulldogs,189,aed211c3-23a4-4188-ad70-22c6eba7d765,DRKE,1,D1,15,17,0,-2,2,-5,-5,1,23
+2012,Bryant University,Bulldogs,81,61dadefa-76bf-4db4-8067-f88df540b9cd,BRY,1,D1,19,12,0,7,-26,-12,-28,-13,5
+2012,Butler University,Bulldogs,87,bdb7d7a4-45f8-4bf3-ab85-15488c451494,BUT,1,D1,27,9,0,18,7,18,28,20,26
+2012,Gonzaga University,Bulldogs,260,2f4d21f8-6d5f-48a5-abca-52a30583871a,GONZ,1,D1,32,3,0,29,19,15,20,22,17
+2012,Samford University,Bulldogs,625,c13f96ba-c79c-452f-9f63-3b45fae4e543,SAM,1,D1,11,21,0,-10,-8,-7,-9,0,-2
+2012,University of Georgia,Bulldogs,257,4f4b0771-994c-4126-822d-7525aaa00f65,UGA,1,D1,15,17,0,-2,-2,9,-3,-8,0
+2012,Alabama A&M University,Bulldogs,6,949c3398-85e4-4c63-ba71-9a82e06ddea4,AAMU,1,D1,11,20,0,-9,-14,-2,-5,-11,-1
+2012,Louisiana Tech University,Bulldogs,366,8ff733a9-9f93-46de-ba7e-cf6f7e429670,LT,1,D1,27,7,0,20,2,-8,13,-3,-18
+2012,Mississippi State University,Bulldogs,430,a1ba4b89-d97c-44e2-835f-79ad3ccaa5ae,MSST,1,D1,10,22,0,-12,9,3,12,10,12
+2012,South Carolina State University,Bulldogs,647,a44f8c85-7ab6-4a4e-b6f1-c69a4cabe1ed,SCST,1,D1,6,24,0,-18,-21,-12,4,3,-7
+2012,"California State University, Fresno",Bulldogs,96,dd8db4d8-d984-4cab-b7f6-22c6b8c2c45f,FRES,1,D1,11,19,0,-8,-7,-3,-3,-8,-6
+2012,"University of North Carolina, Asheville",Bulldogs,456,ad9fce12-6b1a-400c-bcbe-29d84d065fc0,UNCA,1,D1,16,16,0,0,14,6,-1,-1,13
+2012,Stanford University,Cardinal,674,683ab61f-546f-44da-b085-c3a5740554aa,STAN,1,D1,19,15,0,4,15,-1,-4,6,20
+2012,Nicholls State University,Colonels,483,c0d19efd-d40c-4e32-8e90-dbcb28178b5d,NICH,1,D1,9,21,0,-12,-10,0,-8,9,-11
+2012,Eastern Kentucky University,Colonels,202,e48e3dd5-721c-4d96-8ff4-790fe2597bfd,EKY,1,D1,25,10,0,15,0,-1,7,5,-2
+2012,Iowa State University,Cyclones,311,0e4258fa-3154-4c16-b693-adecab184c6c,ISU,1,D1,23,12,0,11,12,0,-2,-2,-4
+2012,Jacksonville University,Dolphins,316,fb28bd56-9e56-40c1-992d-71c1e27fe4fd,JAC,1,D1,14,18,0,-4,-14,8,7,4,5
+2012,University of Iowa,Hawkeyes,312,c10544de-e3bd-4776-ba2e-83df8c017fd1,IOWA,1,D1,25,13,0,12,1,-9,-12,-2,-6
+2012,"Indiana University, Bloomington",Hoosiers,306,c3f0a8ce-af67-497f-a750-3b859376b20a,IND,1,D1,29,7,0,22,18,-8,-11,-19,17
+2012,University of Kansas,Jayhawks,328,fae4855b-1b64-4b40-a632-9ed345e1e952,KU,1,D1,31,6,0,25,25,32,30,19,34
+2012,Lafayette College,Leopards,342,6af02334-9ac3-452f-bcf4-20abdb72bd07,LAF,1,D1,19,15,0,4,-5,-6,6,-14,0
+2012,"California State University, Northridge",Matadors,101,cb732075-23a5-4e71-9037-50a7a002bdb2,CSN,1,D1,14,17,0,-3,-14,-4,-10,3,10
+2012,Old Dominion University,Monarchs,523,ce967953-5c50-4220-87b2-99acb9606e84,ODU,1,D1,5,25,0,-20,8,20,18,15,2
+2012,Southern Methodist University,Mustangs,663,3f4515ea-4472-46b9-ac9e-16d7d8f22a38,SMU,1,D1,15,17,0,-2,-6,5,-3,-12,-10
+2012,California Polytechnic State University,Mustangs,90,45439cdb-af7a-4743-936c-dccc76b30877,CP,1,D1,18,14,0,4,3,0,-7,-14,-6
+2012,Furman University,Paladins,244,ca5318f2-48eb-4f6b-896a-966b900aa42f,FUR,1,D1,7,24,0,-17,-1,11,-4,-18,-16
+2012,High Point University,Panthers,19651,a311188e-1259-4fda-b0ea-c47cb52694b1,HP,1,D1,17,14,0,3,-5,-7,0,-12,3
+2012,Georgia State University,Panthers,254,94ea835b-8ce9-4de2-a5b1-971548fea974,GAST,1,D1,15,16,0,-1,10,-7,-8,-8,-12
+2012,University of Pittsburgh,Panthers,545,24051034-96bb-4f78-a3a6-312f3258780f,PITT,1,D1,24,9,0,15,5,22,16,26,17
+2012,Eastern Illinois University,Panthers,201,23fec4e7-108f-4569-85d1-bef2f794e925,EIU,1,D1,11,21,0,-10,-5,-11,7,-6,-15
+2012,Prairie View A&M University,Panthers,553,91ec9ba2-12e5-4a75-9410-a166c82163fd,PV,1,D1,15,19,0,-4,-4,-12,2,1,-14
+2012,University of Northern Iowa,Panthers,504,2c93a75d-5449-4ec1-9ca2-1e6c812399a4,UNI,1,D1,21,15,0,6,6,6,25,12,4
+2012,"University of Wisconsin, Milwaukee",Panthers,797,5d77800f-1ae6-4b66-8e97-b0dbb8bbc717,MILW,1,D1,8,24,0,-16,6,5,6,3,-2
+2012,George Mason University,Patriots,248,e76479d0-a768-46d2-89bf-7b9dae12bec8,GMU,1,D1,22,16,0,6,15,20,2,11,12
+2012,St. Peter's College,Peacocks,617,e66d7ed2-9b4c-48c8-adaa-a276793b057d,SPC,1,D1,9,21,0,-12,-21,6,2,-8,-18
+2012,Youngstown State University,Penguins,817,da7d41bc-48b0-4a04-948f-792d6470bcb5,YSU,1,D1,18,16,0,2,1,-12,-14,-8,-12
+2012,University of Denver,Pioneers,183,6f676cba-c1f9-45a4-9016-fb408fd525b1,DEN,1,D1,22,10,0,12,13,-4,6,-1,-8
+2012,Sacred Heart University,Pioneers,590,3556d445-b3f1-467e-b150-952b32dfb150,SHU,1,D1,9,20,0,-11,-4,-7,-1,3,4
+2012,Loyola University (Illinois),Ramblers,371,61a3908a-7492-4b6f-809e-12c61976bb0a,L-IL,1,D1,15,16,0,-1,-16,1,-2,-4,-7
+2012,Florida A&M University,Rattlers,228,cec2527e-5e1e-4817-a628-35666ef13b6e,FAMU,1,D1,8,23,0,-15,-13,-8,-13,-11,-2
+2012,Miami University (Ohio),RedHawks,414,1165ca31-f181-4206-b727-c4e897e4b5cd,M-OH,1,D1,9,22,0,-13,-12,-1,-4,4,1
+2012,Illinois State University,Redbirds,299,509aacc4-c121-46a2-800a-d5431ef181d2,ILST,1,D1,18,15,0,3,7,-7,11,14,15
+2012,Seattle University,Redhawks,1356,7e100f63-0b32-49f6-a954-f5b7c8cf48ad,SEA,1,D1,8,22,0,-14,-3,-9,3,13,9
+2012,Southeast Missouri State University,Redhawks,654,6a7083ab-1832-48c0-9168-427b35adbcde,SEMO,1,D1,17,16,0,1,-1,-12,-16,-24,-18
+2012,Wagner College,Seahawks,748,3b644902-cd06-4930-9a3e-6c78cfb1f464,WAG,1,D1,19,12,0,7,19,-4,-21,2,15
+2012,University of North Carolina Wilmington,Seahawks,460,c54279f9-3028-4663-893a-7d22482f8098,UNCW,1,D1,10,20,0,-10,-11,-5,-13,-18,7
+2012,Wichita State University,Shockers,782,f38b58de-3273-4723-a78b-2f918e9aa2d5,WICH,1,D1,30,9,0,21,21,21,15,0,-9
+2012,University of Tennessee at Martin,Skyhawks,695,9febd5fa-982f-4f40-ad1d-8e49be96cf4f,UTM,1,D1,9,21,0,-12,-23,-9,-21,12,1
+2012,Norfolk State University,Spartans,485,a8f75c12-c4db-401f-99e3-b48209d85274,NORF,1,D1,21,12,0,9,16,-8,-8,-5,1
+2012,Michigan State University,Spartans,416,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,MSU,1,D1,27,9,0,18,21,4,19,24,18
+2012,San Jose State University,Spartans,630,29de4e5e-ee5b-48c8-bffc-1972e7da1e30,SJSU,1,D1,9,20,0,-11,-13,1,-3,-4,-6
+2012,University of South Carolina Upstate,Spartans,10411,2e78bd1b-9422-491e-9c73-37cf83b0e34e,SCUS,1,D1,16,17,0,-1,8,-20,-17,-12,-16
+2012,University of North Carolina at Greensboro,Spartans,459,612f7f66-1de1-4d42-b842-9a508daab911,UNCG,1,D1,9,22,0,-13,-6,-17,-15,-20,7
+2012,Wofford College,Terriers,2915,9916713f-b243-452b-93ae-a2c3ccabf68b,WOF,1,D1,13,19,0,-6,5,8,17,2,0
+2012,Boston University,Terriers,68,de9a0e19-b83c-4b98-a6da-81c110cb364b,BU,1,D1,17,13,0,4,0,7,7,4,-3
+2012,St. Francis College (Brooklyn),Terriers,599,e19cfc47-f23f-4c64-ba29-2e6d12dc45b2,SFNY,1,D1,12,18,0,-6,0,0,-7,-10,-15
+2012,"University of Texas, Pan American",Vaqueros,536,92456e1e-f48c-4385-96ab-14cb27d18726,UTRGV,1,D1,16,16,0,0,-10,-19,-21,-7,5
+2012,University of Louisiana at Monroe,Warhawks,498,18585f21-1d63-4400-974c-433fd5073c34,ULM,1,D1,4,23,0,-19,-23,-17,-7,-10,-11
+2012,"University of Hawaii, Manoa",Warriors,277,d4dc55b3-94fe-4d4f-b0bf-c50c5f064392,HAW,1,D1,1,15,0,-14,0,6,-10,-4,-8
+2012,Davidson College,Wildcats,173,2920c5fa-1e86-4958-a7c4-1e97b8e201d8,DAV,1,D1,26,8,0,18,17,3,1,19,22
+2012,Villanova University,Wildcats,739,4383eb6a-7fd8-4ff2-94c5-43c933121e88,VILL,1,D1,20,14,0,6,-6,9,17,22,9
+2012,University of Arizona,Wildcats,29,9b166a3f-e64b-4825-bb6b-92c6f0418263,ARIZ,1,D1,27,8,0,19,11,22,1,7,-14
+2012,University of Kentucky,Wildcats,334,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,UK,1,D1,21,12,0,9,36,20,32,8,5
+2012,Weber State University,Wildcats,758,4743cb7c-784a-4b95-a380-5471f92f2217,WEB,1,D1,30,7,0,23,18,4,9,11,2
+2012,Kansas State University,Wildcats,327,d203f38a-a166-4258-bca2-e161b591ecfb,KSU,1,D1,27,8,0,19,11,12,21,10,9
+2012,Northwestern University,Wildcats,509,4b7dedc0-7b48-49a4-aad6-8a94a33274d2,NW,1,D1,13,19,0,-6,5,6,6,3,-14
+2012,Bethune-Cookman University,Wildcats,61,0796c3b6-5308-4aa0-8fdc-c65d39b043c6,COOK,1,D1,14,20,0,-6,1,8,1,1,-10
+2012,University of New Hampshire,Wildcats,469,93cb009e-5bbf-4081-b2c9-44028fe28096,UNH,1,D1,9,20,0,-11,-3,-6,-4,-2,-11
+2012,North Carolina State University,Wolfpack,490,52df1e19-b142-4a76-a439-ad68455d0581,NCST,1,D1,24,11,0,13,11,-1,4,2,-1
+2012,"University of California, Irvine",Anteaters,109,39d00ef7-320d-47cf-a2fa-859bc24d16b4,UCI,1,D1,21,16,0,5,-8,-6,-4,-7,2
+2012,Dartmouth College,Big Green,172,d60357bd-1205-42e9-9092-d986a2843a34,DART,1,D1,9,19,0,-10,-20,-18,-18,-10,-8
+2012,Saint Louis University,Billikens,609,1e42cce3-236b-4f3e-9650-2c45e6332e1e,SLU,1,D1,28,7,0,21,18,-7,10,4,1
+2012,Presbyterian College,Blue Hose,1320,b06b63b0-20e6-4c78-bdcf-5feac3d7995e,PRE,1,D1,8,24,0,-16,-1,-5,-21,-5,-20
+2012,"University of Colorado, Boulder",Buffaloes,157,9fccbf28-2858-4263-821c-fdefb3c7efa3,COLO,1,D1,21,12,0,9,12,10,-1,-13,-8
+2012,Lamar University,Cardinals,346,eda6c307-1e0f-4a28-82f4-ee9653b343fb,LAM,1,D1,3,28,0,-25,11,-4,-4,0,8
+2012,Ball State University,Cardinals,47,315c4deb-3c9d-413d-a369-7168f2545d21,BALL,1,D1,15,15,0,0,0,6,0,-3,-18
+2012,University of Louisville,Cardinals,367,b795ddbc-baab-4499-8803-52e8608520ab,LOU,1,D1,35,5,0,30,20,15,7,25,18
+2012,University of Virginia,Cavaliers,746,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,UVA,1,D1,23,12,0,11,12,1,-1,-8,1
+2012,Central Michigan University,Chippewas,129,472c22e0-843d-472c-a871-f1593fb0725d,CMU,1,D1,11,20,0,-9,-10,-11,0,-7,-3
+2012,Robert Morris University,Colonials,579,6906e22d-92fa-40cb-8c05-ec8391ac1979,RMU,1,D1,24,11,0,13,15,4,11,13,18
+2012,George Washington University,Colonials,249,d52c3640-069c-4554-982e-e6537c8044f1,GW,1,D1,13,17,0,-4,-11,3,1,-8,-8
+2012,Valparaiso University,Crusaders,735,df3da9d7-2d2b-44e2-99e2-08c4945a203b,VALP,1,D1,26,8,0,18,10,11,-2,-13,8
+2012,College of the Holy Cross,Crusaders,285,31aedd91-a77e-46c1-8bdc-80e9860c159d,HC,1,D1,12,18,0,-6,1,-13,-13,4,1
+2012,La Salle University,Explorers,340,ad9a3e21-4585-4e35-8946-290fe4a16f18,LAS,1,D1,24,10,0,14,8,-3,-6,5,-2
+2012,Jacksonville State University,Gamecocks,315,13358462-e05b-4449-8688-90c4622cdde8,JVST,1,D1,17,11,0,6,-3,-20,-8,-6,-15
+2012,"University of South Carolina, Columbia",Gamecocks,648,1c7ec608-3b36-4cee-adac-9265e3792597,SCAR,1,D1,14,18,0,-4,-11,-2,-1,11,-4
+2012,Austin Peay State University,Governors,43,a0fdb660-a822-4337-b01d-31c4d2c99c8a,PEAY,1,D1,8,23,0,-15,-8,6,2,5,13
+2012,University of Montana,Grizzlies,441,e3848467-66c0-41e5-8283-02e3586d8601,MONT,1,D1,25,7,0,18,18,10,12,5,-2
+2012,Texas A&M University-Corpus Christi,Islanders,26172,fe21a988-3e96-4f3c-8f9f-b449ccda43b0,AMCC,1,D1,6,23,0,-17,-18,-11,2,3,-11
+2012,University of Missouri-Kansas City,Kangaroos,2707,820c8f26-cf11-4997-b2e2-19f47bd2f72f,UMKC,1,D1,8,24,0,-16,-11,2,-6,-17,-10
+2012,University of Texas at Austin,Longhorns,703,6ed15092-2670-450a-99c2-61d861e87644,TEX,1,D1,16,18,0,-2,6,20,14,11,24
+2012,"Indiana University-Purdue University, Fort Wayne",Mastodons,308,22984593-0701-4648-b8a8-f6d695238620,IPFW,1,D1,16,17,0,-1,-8,6,1,-4,-5
+2012,University of Nebraska Omaha,Mavericks,464,68d2aa5b-714f-4652-96f3-b71e1752413f,NEOM,1,D1,11,20,0,-9,-7,10,13,6,18
+2012,University of Texas at Arlington,Mavericks,702,7c2b372b-b5f0-466e-90cf-880beec57584,UTA,1,D1,19,14,0,5,15,-3,2,2,9
+2012,"University of Massachusetts, Amherst",Minutemen,400,88104678-e53b-43b3-82f7-efb3a11cedb9,MASS,1,D1,21,12,0,9,13,0,-8,-6,14
+2012,Saint Francis University (Pennsylvania),Red Flash,600,6637ac5f-59c2-4888-af34-a86d138ccfb3,SFPA,1,D1,5,24,0,-19,-17,-12,-8,-17,-17
+2012,Marist College,Red Foxes,386,15d31915-fbd6-4ae3-8e4b-f3b563c56a18,MRST,1,D1,10,21,0,-11,-4,-21,-28,-13,4
+2012,St. John's University (New York),Red Storm,603,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,SJU,1,D1,17,16,0,1,-6,9,1,-2,-8
+2012,Stony Brook University,Seawolves,683,23426c0b-1705-4dfb-a0e2-efdbdd8fd6f6,STON,1,D1,25,8,0,17,12,-2,12,2,-16
+2012,Florida State University,Seminoles,234,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,FSU,1,D1,18,16,0,2,15,12,12,15,4
+2012,Indiana State University,Sycamores,305,2a997096-a381-469d-a7e9-9e031c8b071c,INST,1,D1,18,15,0,3,3,6,2,-10,-1
+2012,"University of North Carolina, Chapel Hill",Tar Heels,457,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,UNC,1,D1,25,11,0,14,26,21,3,30,33
+2012,"University of Maryland, College Park",Terrapins,392,2778d005-cc14-4e58-9bf2-3fc37bffb62f,MD,1,D1,25,13,0,12,2,5,15,7,4
+2012,University of Nevada,Wolf Pack,466,62a73b4a-e281-4483-a1f8-f1160a18e456,NEV,1,D1,12,19,0,-7,21,-6,8,8,9
+2012,Long Island University-Brooklyn Campus,Blackbirds,361,82c12e8d-7c6c-47d8-b100-3cbc190d268e,LIU,1,D1,20,14,0,6,16,21,-3,2,0
+2012,Charleston Southern University,Buccaneers,48,a3fef707-e4fc-48a0-82f1-f4ef01b76f45,CHSO,1,D1,19,13,0,6,7,0,-4,-11,-10
+2012,East Tennessee State University,Buccaneers,198,d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e,ETSU,1,D1,10,22,0,-12,3,12,5,12,6
+2012,University of Vermont,Catamounts,738,18e89867-9201-41ce-ba19-fadddf92fa17,UVM,1,D1,21,12,0,9,12,14,15,15,1
+2012,Western Carolina University,Catamounts,769,6bff595c-32cb-4028-837c-c7de2a2107e6,WCU,1,D1,14,19,0,-5,-1,3,10,1,-11
+2012,Vanderbilt University,Commodores,736,72971b77-1d35-40b3-bb63-4c5b29f3d22b,VAN,1,D1,16,17,0,-1,14,12,15,7,18
+2012,Tulane University,Green Wave,718,399ad7fb-de60-45a6-a71f-d26e00f1a4ec,TULN,1,D1,20,15,0,5,-1,-4,-14,-3,2
+2012,Loyola University Maryland,Greyhounds,369,175d34a7-3823-4e4f-9f11-2464f55360b8,L-MD,1,D1,23,12,0,11,15,0,-4,-8,5
+2012,University of Miami (Florida),Hurricanes,415,7aec5187-cb1b-45e5-8f7d-406d766cdc73,MIA,1,D1,29,7,0,22,7,6,7,6,12
+2012,University of North Texas,Mean Green,497,10f450ce-143b-4e46-8bfe-52c644b68b07,UNT,1,D1,12,20,0,-8,4,11,15,8,9
+2012,U.S. Naval Academy,Midshipmen,726,3b088563-ca8a-49a6-9e19-5e4cb186ae1d,NAVY,1,D1,8,23,0,-15,-23,-9,-4,8,2
+2012,Xavier University,Musketeers,812,0d8a328f-20ce-410b-bed1-15fc01308aaf,XAV,1,D1,17,14,0,3,10,16,17,19,23
+2012,University of New Orleans,Privateers,474,e7ff6d5c-07e9-42af-955d-0a0b8c1e2288,UNO,1,D1,8,18,0,-10,2,10,-14,-8,6
+2012,"University of Arkansas, Fayetteville",Razorbacks,31,c70c23c4-ab09-4797-a1af-792c848ab17f,ARK,1,D1,19,13,0,6,4,5,-4,-2,11
+2012,Arkansas State University,Red Wolves,30,95826e36-ea33-4b51-83a8-7b4cc20999ee,ARST,1,D1,19,12,0,7,-6,2,3,-4,-10
+2012,"University of Maryland, Baltimore County",Retrievers,391,32755362-6336-4dd3-ac34-6f72a6cc150b,UMBC,1,D1,8,23,0,-15,-22,-20,-22,-2,15
+2012,Arizona State University,Sun Devils,28,ad4bc983-8d2e-4e6f-a8f9-80840a786c64,ASU,1,D1,22,13,0,9,-11,-7,11,15,8
+2012,"University of Tennessee, Knoxville",Volunteers,694,b827dbdf-230f-4916-9703-3bb9004e26eb,TENN,1,D1,20,13,0,7,4,4,19,8,26
+2012,University of Michigan,Wolverines,418,bdc2561d-f603-4fab-a262-f1d2af462277,MICH,1,D1,31,8,0,23,14,7,-2,7,-12
+2012,"University of Maine, Orono",Black Bears,380,0095032d-6143-44f2-8974-f6815fc56c5b,ME,1,D1,11,19,0,-8,-5,0,8,-12,-16
+2012,DePaul University,Blue Demons,176,ee09e6ad-3872-4745-bbb9-ebbd5c6f8318,DEP,1,D1,11,21,0,-10,-7,-17,-15,-15,-8
+2012,Duke University,Blue Devils,193,faeb1160-5d15-4f26-99fc-c441cf21fc7f,DUKE,1,D1,30,6,0,24,20,27,30,23,22
+2012,Central Connecticut State University,Blue Devils,127,a93bf4f2-3724-4539-8c8a-9ac8ee3741a6,CCSU,1,D1,13,17,0,-4,-3,7,-6,-4,-2
+2012,"University of Nebraska, Lincoln",Cornhuskers,463,f8b1bf00-5b73-4ac4-98c0-ec554027ae32,NEB,1,D1,15,18,0,-3,-6,6,-3,5,7
+2012,University at Albany,Great Danes,14,290a5130-836d-45e6-824f-28704d6ba246,ALBY,1,D1,24,11,0,13,4,0,-18,-1,0
+2012,Radford University,Highlanders,563,f2cf9ba2-ac8c-4d92-8e7a-48dd88e8f40b,RAD,1,D1,13,19,0,-6,-20,-19,7,9,-10
+2012,New Jersey Institute of Technology,Highlanders,471,500d7223-ecff-494b-9539-28427156c783,NJIT,1,D1,16,13,0,3,-2,0,-11,-29,-29
+2012,"University of California, Riverside",Highlanders,111,6b170a32-8445-4cb1-8638-724996c3094b,UCRV,1,D1,6,25,0,-19,-3,-7,-5,4,-12
+2012,Western Kentucky University,Hilltoppers,772,881380da-861c-4ab6-a7d2-20699d8ea883,WKU,1,D1,20,16,0,4,-3,0,8,16,22
+2012,South Dakota State University,Jackrabbits,649,6ef40534-5fad-4755-84de-7dcbd645d1f0,SDST,1,D1,25,10,0,15,19,7,-2,-7,-13
+2012,Northern Arizona University,Lumberjacks,501,1753768d-e46e-40b1-8d69-a8ae5cccec03,NAU,1,D1,11,21,0,-10,-19,6,0,-11,10
+2012,Stephen F. Austin State University,Lumberjacks,676,5ef64f01-86ae-4553-9834-c79cc0859eaf,SFA,1,D1,27,5,0,22,8,7,14,16,20
+2012,Texas Tech University,Red Raiders,700,f8c705b7-87d3-411a-9c8b-5124daab0469,TTU,1,D1,11,20,0,-9,-15,-6,3,-5,1
+2012,University of Texas at San Antonio,Roadrunners,706,953151f2-1e42-4cb0-a99e-202493a64dcf,UTSA,1,D1,10,22,0,-12,4,6,8,6,-4
+2012,"California State University, Bakersfield",Roadrunners,94,2da57857-b038-4ad3-8199-e3fb339f57d2,CSB,1,D1,14,16,0,-2,1,-10,-15,-13,-13
+2012,Middle Tennessee State University,Blue Raiders,419,3d2f0819-8f3b-4ff3-afd6-6227c469a751,MTU,1,D1,28,6,0,22,20,0,5,4,2
+2012,Purdue University,Boilermakers,559,12d7f888-675b-459f-9099-a38f771d8a95,PUR,1,D1,16,18,0,-2,9,18,23,17,16
+2012,Coastal Carolina University,Chanticleers,149,4af63ebd-d3c8-4772-bbde-938a078bd057,CCAR,1,D1,14,15,0,-1,7,22,21,-9,-2
+2012,University of Alabama,Crimson Tide,8,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,ALA,1,D1,23,13,0,10,9,13,2,4,1
+2012,Mississippi Valley State University,Delta Devils,432,5873529e-e5e3-4a06-8a03-fa4cbe509880,MVSU,1,D1,5,23,0,-18,8,-6,-14,-18,1
+2012,"University of California, Berkeley",Golden Bears,107,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,CAL,1,D1,21,12,0,9,14,3,13,11,1
+2012,"University of Arkansas, Pine Bluff",Golden Lions,2678,1394dd8a-040e-4509-9ee3-761d60eaf6c9,ARPB,1,D1,16,14,0,2,-11,-17,-15,-18,-18
+2012,Texas Christian University,Horned Frogs,698,f7fcbb6e-4a55-41ea-ba21-f763ed914467,TCU,1,D1,11,21,0,-10,3,-11,-6,-3,-2
+2012,Western Illinois University,Leathernecks,771,cc9e5424-ab3b-41ec-b2aa-7e8a73d759c6,WIU,1,D1,22,9,0,13,3,-16,-4,-11,-6
+2012,West Virginia University,Mountaineers,768,f770d3a2-221c-49ce-9c7a-680f7417fe9e,WVU,1,D1,13,19,0,-6,5,9,24,11,15
+2012,Mount St. Mary's University,Mountaineers,450,5fe4a398-1699-4442-a364-305b2f0ac01e,MSM,1,D1,18,14,0,4,-13,-10,1,5,4
+2012,Appalachian State University,Mountaineers,27,87d88c93-29bc-4306-b0a6-87c6f6e80da1,APP,1,D1,15,16,0,-1,-5,1,11,-5,5
+2012,Southern Utah University,Thunderbirds,667,c7116621-45ed-4ab1-9ad9-dee524120569,SUU,1,D1,11,20,0,-9,-3,-8,-15,-9,-8
+2012,U.S. Military Academy,Black Knights,725,6dfaf0ba-47c4-4e05-b0a7-72734747d48f,ARMY,1,D1,16,15,0,1,-6,-8,-1,-8,-2
+2012,Wake Forest University,Demon Deacons,749,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,WAKE,1,D1,13,18,0,-5,-5,-16,9,17,4
+2012,Marquette University,Golden Eagles,387,06f7c904-0ac7-4125-b0f4-f4871bb69057,MARQ,1,D1,26,9,0,17,19,7,10,15,15
+2012,Oral Roberts University,Golden Eagles,527,095417ae-62b0-4109-afc4-d92918599dd4,ORU,1,D1,20,15,0,5,20,3,7,1,15
+2012,Tennessee Technological University,Golden Eagles,692,fe037cba-25d9-42f5-a461-61d7102c17de,TNTC,1,D1,12,17,0,-5,5,7,-2,-6,-6
+2012,University of Southern Mississippi,Golden Eagles,664,6120ac5d-e0f2-4b28-9e6f-ee71596a7e88,USM,1,D1,0,10,0,-10,16,12,6,-2,5
+2012,Pennsylvania State University,Nittany Lions,539,4aebd148-8119-4875-954c-66779867989b,PSU,1,D1,10,21,0,-11,-8,4,-9,16,-1
+2012,Niagara University,Purple Eagles,482,f7575278-12ec-494a-b544-427c1759d43d,NIAG,1,D1,19,14,0,5,-5,-14,3,17,9
+2012,University of Louisiana at Lafayette,Ragin' Cajuns,671,63cad858-8654-4956-8438-8fe79cd1208a,ULL,1,D1,13,20,0,-7,0,-1,-4,-10,0
+2012,University of North Dakota,Fighting Hawks,494,de8fc8a7-253f-4597-8a48-a0104ef226ae,UND,1,D1,16,17,0,-1,2,4,-15,4,0
+2012,University of Notre Dame,Fighting Irish,513,80962f09-8821-48b6-8cf0-0cf0eea56aa8,ND,1,D1,25,10,0,15,10,20,11,6,17
+2012,Kent State University,Golden Flashes,331,3da4798c-2d58-4dac-b66e-ad145a91b544,KENT,1,D1,21,14,0,7,9,13,14,4,21
+2012,"University of Minnesota, Twin Cities",Golden Gophers,428,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,MINN,1,D1,21,13,0,8,8,3,7,11,6
+2012,Lehigh University,Mountain Hawks,352,508f503f-dc57-4f4c-a01e-4f195e5c05c8,LEH,1,D1,21,10,0,11,19,1,11,1,-1
+2012,Georgia Institute of Technology,Yellow Jackets,255,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,GT,1,D1,16,15,0,1,-9,-5,10,-7,-2
+2012,Campbell University,Fighting Camels,115,6e5dfe2c-28cc-411f-b846-af8436093ab2,CAMP,1,D1,0,20,0,-20,2,-7,8,-2,-10
+2012,"University of Illinois, Champaign",Fighting Illini,301,150148c2-ca8f-414f-8f41-d94a55d4a122,ILL,1,D1,23,13,0,10,2,6,6,14,-3
+2012,Canisius College,Golden Griffins,116,0113eea0-c943-4fff-9780-ae0fb099e7ef,CAN,1,D1,20,14,0,6,-20,0,-2,-9,-19
+2012,Florida International University,Golden Panthers,231,a8ac24ca-3b7a-4610-ad99-042661584c48,FIU,1,D1,18,14,0,4,-13,-8,-18,-7,-11
+2012,"Rutgers, State Univ of New Jersey, New Brunswick",Scarlet Knights,587,b03bb029-4499-4a2c-9074-5071ed360b21,RUTG,1,D1,15,16,0,-1,-4,-2,-2,-10,-9
+2012,Marshall University,Thundering Herd,388,58d8baa3-7624-4b21-a47f-a23df2bf8859,MRSH,1,D1,13,19,0,-6,7,10,14,-2,2
+2012,Oakland University,Golden Grizzlies,514,aeaaef0d-5238-414e-ac04-c55a22cba208,OAK,1,D1,16,17,0,-1,4,15,17,10,3
+2012,University of Tulsa,Golden Hurricane,719,2959bd24-7007-41ae-a3a3-abdf26888cfc,TLSA,1,D1,17,16,0,1,3,6,11,14,11
+2012,Gardner-Webb University,Runnin' Bulldogs,1092,79871449-f5a1-4650-b3cf-85b78fd6943e,WEBB,1,D1,21,13,0,8,-8,-10,-13,-4,0
+2012,University of Delaware,Fightin Blue Hens,180,0affc15f-641d-4211-970d-fb9fb8d36842,DEL,1,D1,19,14,0,5,4,-3,-17,-6,-3
